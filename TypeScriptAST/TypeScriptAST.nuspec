@@ -7,7 +7,7 @@
     <authors>POFerro</authors>
     <owners>POFerro</owners>
     <licenseUrl>https://github.com/ToCSharp/TypeScriptAST/blob/master/LICENSE.txt</licenseUrl>
-    <projectUrl>https://github.com/ToCSharp/TypeScriptAST</projectUrl>
+    <projectUrl>https://github.com/POFerro/TypeScriptAST/tree/nuget_publish</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Based on .NET port of Microsoft's TypeScript parser for simple AST manipulation and enhanced with https://github.com/ToCSharp/TypeScriptAST/pull/9 </description>
     <releaseNotes>Initial release.</releaseNotes>

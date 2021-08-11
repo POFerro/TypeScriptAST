@@ -18,10 +18,10 @@ It works with TypeScript, JavaScript and DefinitelyTyped(".d.ts") files and give
 
 ## Install TypeScriptAST via NuGet
 
-If you want to include TypeScriptAST in your project, you can [install it directly from NuGet](https://www.nuget.org/packages/TypeScriptAST/)
+If you want to include TypeScriptAST.Corrected in your project, you can [install it directly from NuGet](https://www.nuget.org/packages/TypeScriptAST.Corrected/)
 
 ```
-PM> Install-Package TypeScriptAST
+PM> Install-Package TypeScriptAST.Corrected
 ```
 
 ## Create AST

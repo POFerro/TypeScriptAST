@@ -1,3 +1,6 @@
+This is based on package https://www.nuget.org/packages/TypeScriptAST/ and enhanced with PR: https://github.com/ToCSharp/TypeScriptAST/pull/9
+If you face the issue described in the PR you need this package otherwise just use the original please :).
+
 This is old project for TypeScript, which is developing so fast. I think now is not the best option for parsing TypeScript. Now it's not easy to upgrade to the current TypeScript. For JavaScript I think it still good.
 It's time to rewrite TypeScriptAST. Microsoft showed us how to do it in System.Text.Json for .NET Core 3.0:
 "Provide high-performance JSON APIs. We needed a new set of JSON APIs that are highly tuned for performance by using Span"

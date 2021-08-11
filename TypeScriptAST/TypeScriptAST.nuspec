@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
+    <id>TypeScriptAST.Corrected</id>
     <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <title>$title$ Corrected With PR #9</title>
+    <authors>POFerro</authors>
+    <owners>POFerro</owners>
     <licenseUrl>https://github.com/ToCSharp/TypeScriptAST/blob/master/LICENSE.txt</licenseUrl>
     <projectUrl>https://github.com/ToCSharp/TypeScriptAST</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
+    <description>Based on .NET port of Microsoft's TypeScript parser for simple AST manipulation and enhanced with https://github.com/ToCSharp/TypeScriptAST/pull/9 </description>
     <releaseNotes>Initial release.</releaseNotes>
     <copyright>Copyright Oleg Zudov 2017</copyright>
     <tags>TypeScript JavaScript DefinitelyTyped AST parser</tags>
